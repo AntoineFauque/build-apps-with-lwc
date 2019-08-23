@@ -1,3 +1,1 @@
-# Ursus Park sample app for Trailhead project Build Flexible Apps with Lightning Web Components
-
-
+# Ursus Park sample app and some Custom app in Lightning Web Components
