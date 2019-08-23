@@ -1,0 +1,44 @@
+.DeepPink {
+    background-color: deeppink;
+}
+
+.DeepSkyBlue {
+    background-color: deepskyblue;
+}
+
+.LimeGreen {
+    background-color: limegreen;
+}
+
+.Gold {
+    background-color: gold;
+}
+
+.Red {
+    background-color: red;
+}
+
+.RosyBrown {
+    background-color: rosybrown;
+}
+
+.Tomato {
+    background-color: tomato;
+}
+
+.Turquoise {
+    background-color: darkturquoise;
+}
+
+.Violet {
+    background-color: violet;
+}
+
+.YellowGreen {
+    background-color: yellowGreen;
+}
+
+* {
+    height: 3rem;
+    width: 3rem;
+}

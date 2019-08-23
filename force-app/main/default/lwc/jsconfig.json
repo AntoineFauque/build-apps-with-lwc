@@ -1,0 +1,44 @@
+{
+    "compilerOptions": {
+        "experimentalDecorators": true,
+        "baseUrl": ".",
+        "paths": {
+            "c/bearList": [
+                "bearList/bearList.js"
+            ],
+            "c/bearLocation": [
+                "bearLocation/bearLocation.js"
+            ],
+            "c/bearMap": [
+                "bearMap/bearMap.js"
+            ],
+            "c/bearSupervisor": [
+                "bearSupervisor/bearSupervisor.js"
+            ],
+            "c/bearTile": [
+                "bearTile/bearTile.js"
+            ],
+            "c/helloWebComponent": [
+                "helloWebComponent/helloWebComponent.js"
+            ],
+            "c/indicatorBadgeWeb": [
+                "indicatorBadgeWeb/indicatorBadgeWeb.js"
+            ],
+            "c/indicatorBadgesWeb": [
+                "indicatorBadgesWeb/indicatorBadgesWeb.js"
+            ],
+            "c/pubsub": [
+                "pubsub/pubsub.js"
+            ]
+        }
+    },
+    "typeAcquisition": {
+        "include": [
+            "jest"
+        ]
+    },
+    "include": [
+        "**/*",
+        "../../../../.sfdx/typings/lwc/**/*.d.ts"
+    ]
+}
