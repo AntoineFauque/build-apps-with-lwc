@@ -1,0 +1,12 @@
+<template>
+    <div class="slds-p-bottom_large slds-p-left_large" style="width:600px">
+        <lightning-record-edit-form record-id={recordId} object-api-name="Speaker__c">
+            <lightning-messages></lightning-messages>
+            <lightning-input-field field-name="First_Name__c"></lightning-input-field>
+            <lightning-input-field field-name="Last_Name__c"></lightning-input-field>
+            <lightning-input-field field-name="Email__c"></lightning-input-field>
+            <lightning-input-field field-name="Bio__c"></lightning-input-field>
+            <lightning-button type="submit" name="save" label="Update Speaker" class="slds-m-top_medium" ></lightning-button>
+        </lightning-record-edit-form>
+    </div>
+</template>

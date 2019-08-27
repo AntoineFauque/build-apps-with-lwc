@@ -29,6 +29,15 @@
             ],
             "c/pubsub": [
                 "pubsub/pubsub.js"
+            ],
+            "c/SpeakerFormWeb": [
+                "SpeakerFormWeb/SpeakerFormWeb.js"
+            ],
+            "c/speakerFormWeb": [
+                "speakerFormWeb/speakerFormWeb.js"
+            ],
+            "c/imageUploaderWeb": [
+                "imageUploaderWeb/imageUploaderWeb.js"
             ]
         }
     },
